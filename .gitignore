@@ -1,235 +1,247 @@
-build-opencv/opencv_contrib-4.1.2/
-build-opencv/opencv-4.1.2/
+## IGNORE FOLDER
+/assets/images
+/assets/videos
 
-/calibration/__pycache__/
 
-stream/__pycache__/utils.cpython-37.pyc
-stream/__pycache__/videodesc.cpython-37.pyc
 
-/stream/data/
-/stream/sequence/
 
-/calibration/data
-/images/data
 
-/stream/sequence_04
 
-/__pycache__/
-images/__pycache__/utils.cpython-37.pyc
-calibration/data/README.md
-calibration/data/sorting_images.py
-calibration/data/images_01/000000.jpeg
-calibration/data/images_01/000001.jpeg
-calibration/data/images_01/000002.jpeg
-calibration/data/images_01/000003.jpeg
-calibration/data/images_01/000004.jpeg
-calibration/data/images_01/000005.jpeg
-calibration/data/images_01/000006.jpeg
-calibration/data/images_01/000007.jpeg
-calibration/data/images_01/000008.jpeg
-calibration/data/images_01/000009.jpeg
-calibration/data/images_01/000010.jpeg
-calibration/data/images_01/000011.jpeg
-calibration/data/images_01/000012.jpeg
-calibration/data/images_01/000013.jpeg
-calibration/data/images_01/000014.jpeg
-calibration/data/images_01/000015.jpeg
-calibration/data/images_01/000016.jpeg
-calibration/data/images_01/000017.jpeg
-calibration/data/images_01/000018.jpeg
-calibration/data/images_01/000019.jpeg
-calibration/data/images_02/000000.png
-calibration/data/images_02/000001.png
-calibration/data/images_02/000002.png
-calibration/data/images_02/000003.png
-calibration/data/images_02/000004.png
-calibration/data/images_02/000005.png
-calibration/data/images_02/000006.png
-calibration/data/images_02/000007.png
-calibration/data/images_02/000008.png
-calibration/data/images_02/000009.png
-calibration/data/images_02/000010.png
-calibration/data/images_02/000011.png
-calibration/data/images_02/000012.png
-calibration/data/images_02/000013.png
-calibration/data/images_02/000014.png
-calibration/data/images_02/000015.png
-calibration/data/images_02/000016.png
-calibration/data/images_02/000017.png
-calibration/data/images_02/000018.png
-calibration/data/images_02/000019.png
-calibration/data/images_02/000020.png
-calibration/data/images_02/000021.png
-calibration/data/images_02/000022.png
-calibration/data/images_02/000023.png
-calibration/data/images_02/000024.png
-calibration/data/images_02/000025.png
-calibration/data/images_02/000026.png
-calibration/data/images_02/000027.png
-calibration/data/images_02/000028.png
-calibration/data/images_02/000029.png
-calibration/data/images_02/000030.png
-calibration/data/images_02/000031.png
-calibration/data/images_02/000032.png
-calibration/data/images_02/000033.png
-calibration/data/images_02/000034.png
-calibration/data/images_02/000035.png
-calibration/data/images_02/000036.png
-calibration/data/images_02/000037.png
-calibration/data/images_02/000038.png
-calibration/data/images_02/000039.png
-calibration/data/images_02/000040.png
-calibration/data/images_02/000041.png
-calibration/data/images_02/000042.png
-calibration/data/images_02/000043.png
-calibration/data/images_02/000044.png
-calibration/data/images_02/000045.png
-calibration/data/images_02/000046.png
-calibration/data/images_02/000047.png
-calibration/data/images_02/000048.png
-calibration/data/images_02/000049.png
-calibration/data/images_02/000050.png
-calibration/data/images_02/000051.png
-calibration/data/images_02/000052.png
-calibration/data/images_02/000053.png
-calibration/data/images_02/000054.png
-calibration/data/images_02/000055.png
-calibration/data/images_02/000056.png
-calibration/data/images_02/000057.png
-calibration/data/images_02/000058.png
-calibration/data/images_02/000059.png
-calibration/data/images_02/000060.png
-calibration/data/images_02/000061.png
-calibration/data/images_02/000062.png
-calibration/data/images_02/000063.png
-calibration/data/images_02/000064.png
-calibration/data/images_02/000065.png
-calibration/data/images_02/000066.png
-calibration/data/images_02/000067.png
-calibration/data/images_02/000068.png
-calibration/data/images_02/000069.png
-calibration/data/images_02/000070.png
-calibration/data/images_02/000071.png
-calibration/data/images_02/000072.png
-calibration/data/images_02/000073.png
-calibration/data/images_02/000074.png
-calibration/data/images_02/000075.png
-calibration/data/images_02/000076.png
-calibration/data/images_02/000077.png
-calibration/data/images_02/000078.png
-calibration/data/images_02/000079.png
-calibration/data/images_02/000080.png
-calibration/data/images_02/000081.png
-calibration/data/images_02/000082.png
-calibration/data/images_02/000083.png
-calibration/data/images_02/000084.png
-calibration/data/images_02/000085.png
-calibration/data/images_02/000086.png
-calibration/data/images_02/000087.png
-calibration/data/images_02/000088.png
-calibration/data/images_02/000089.png
-calibration/data/images_02/000090.png
-calibration/data/images_02/000091.png
-calibration/data/images_02/000092.png
-calibration/data/images_02/000093.png
-calibration/data/images_02/000094.png
-calibration/data/images_02/000095.png
-calibration/data/images_02/000096.png
-calibration/data/images_02/000097.png
-calibration/data/images_02/000098.png
-calibration/data/images_02/000099.png
-calibration/data/images_02/000100.png
-calibration/data/images_02/000101.png
-calibration/data/images_02/000102.png
-calibration/data/images_02/000103.png
-calibration/data/images_02/000104.png
-calibration/data/images_02/000105.png
-calibration/data/images_02/000106.png
-calibration/data/images_02/000107.png
-calibration/data/images_02/000108.png
-calibration/data/images_02/000109.png
-calibration/data/images_02/000110.png
-calibration/data/images_02/000111.png
-calibration/data/images_02/000112.png
-calibration/data/images_02/000113.png
-calibration/data/images_02/000114.png
-calibration/data/images_02/000115.png
-calibration/data/images_02/000116.png
-calibration/data/images_02/000117.png
-calibration/data/images_02/000118.png
-calibration/data/images_02/000119.png
-calibration/data/images_02/000120.png
-calibration/data/images_02/000121.png
-calibration/data/images_02/000122.png
-calibration/data/images_02/000123.png
-calibration/data/images_02/000124.png
-calibration/data/images_02/000125.png
-calibration/data/images_02/000126.png
-calibration/data/images_02/000127.png
-calibration/data/images_02/000128.png
-calibration/data/images_02/000129.png
-calibration/data/images_02/000130.png
-calibration/data/images_02/000131.png
-calibration/data/images_02/000132.png
-calibration/data/images_02/000133.png
-calibration/data/images_02/000134.png
-calibration/data/images_02/000135.png
-calibration/data/images_02/000136.png
-calibration/data/images_02/000137.png
-calibration/data/images_02/000138.png
-calibration/data/images_02/000139.png
-calibration/data/images_02/000140.png
-calibration/data/images_02/000141.png
-calibration/data/images_02/000142.png
-calibration/data/images_02/000143.png
-calibration/data/images_02/000144.png
-calibration/data/images_02/000145.png
-calibration/data/images_02/000146.png
-calibration/data/images_02/000147.png
-calibration/data/images_02/000148.png
-calibration/data/images_02/000149.png
-calibration/data/images_02/000150.png
-calibration/data/images_02/000151.png
-calibration/data/images_02/000152.png
-calibration/data/images_02/000153.png
-calibration/data/images_02/000154.png
-calibration/data/images_02/000155.png
-calibration/data/images_02/000156.png
-calibration/data/images_02/000157.png
-calibration/data/images_02/000158.png
-calibration/data/images_02/000159.png
-calibration/data/images_02/000160.png
-calibration/data/images_02/000161.png
-calibration/data/images_02/000162.png
-calibration/data/images_02/000163.png
-calibration/data/images_02/000164.png
-calibration/data/images_02/000165.png
-calibration/data/images_02/000166.png
-calibration/data/images_02/000167.png
-calibration/data/images_02/000168.png
-calibration/data/images_02/000169.png
-calibration/data/images_02/000170.png
-calibration/data/images_02/000171.png
-calibration/data/images_02/000172.png
-calibration/data/images_02/000173.png
-calibration/data/images_02/000174.png
-calibration/data/images_02/000175.png
-calibration/data/images_02/000176.png
-calibration/data/images_02/000177.png
-calibration/data/images_02/000178.png
-calibration/data/images_02/000179.png
-calibration/data/images_02/000180.png
-calibration/data/images_02/000181.png
-calibration/data/images_02/000182.png
-calibration/data/images_02/000183.png
-calibration/data/images_02/000184.png
-calibration/data/images_02/000185.png
-calibration/data/images_02/000186.png
-calibration/data/images_02/000187.png
-calibration/data/images_02/000188.png
-calibration/data/images_02/000189.png
-calibration/data/images_02/000190.png
-calibration/data/images_02/000191.png
-calibration/data/images_02/000192.png
-calibration/data/images_02/000193.png
-calibration/data/images_02/000194.png
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# poetry
+#   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
+#   This is especially recommended for binary packages to ensure reproducibility, and is more
+#   commonly ignored for libraries.
+#   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
+#poetry.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# PyCharm
+#  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can
+#  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+#  and can be added to the global gitignore or merged into this file.  For a more nuclear
+#  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+#.idea/
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
