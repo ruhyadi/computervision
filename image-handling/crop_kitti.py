@@ -3,9 +3,9 @@ import numpy as np
 import utils
 import glob
 
-img_fn = glob.glob('data/image_2/*.png')
+img_fn = glob.glob('/home/didi/Repository/computervision/image-handling/traffic02.jpg')
 
-enlarge = 1.625
+enlarge = 1
 
 crop_dim = (1242, 375)
 
@@ -14,7 +14,7 @@ for i, img_path in enumerate(img_fn):
     img_resize = utils.resize(enlarge, img)
     img_crop = utils.center_crop(img_resize, crop_dim)
 
-    cv2.imwrite(f'data/image_2_1/{i:06d}.png', img_crop)
+    cv2.imwrite(f'/home/didi/Repository/computervision/image-handling/{i:06d}.png', img_crop)
 
 print(f"Kitti Size: (375, 1242)")
 print(f"Original: {img.shape}")
