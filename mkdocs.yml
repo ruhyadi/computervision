@@ -127,3 +127,6 @@ nav:
     - Build OpenCV:
       - On Virtual Env: setup/build-opencv-env.md
       - On Docker: setup/build-opencv-docker.md
+  
+  - Project:
+    - Augmented Reality: project/augmented-reality.md
