@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ruhyadi.github.io/computervision/</loc>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ruhyadi.github.io/computervision/project/augmented-reality/</loc>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ruhyadi.github.io/computervision/setup/build-opencv-docker/</loc>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ruhyadi.github.io/computervision/setup/build-opencv-env/</loc>
+         <lastmod>2022-02-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
